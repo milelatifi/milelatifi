@@ -5,6 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.linkedin.com/in/mile-latifi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
