@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mile</h1>
-<h3 align="center">A passionate frontend developer from Kosovo</h3>
+<h1 align="center">Hi there 👋</h1>
+<h3 align="center">I'm Mile Latifi, a front-end developer based in Kosovo.</h3>
 
 - 📫 How to reach me **milelatifi2002@gmail.com**
+- 🌱 I’m currently learning React and Tailwind.
+- 🍎 Beginner mindset (open to learning).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
